@@ -1,5 +1,5 @@
 # 3D-Maze-Generator
-A 3D maze generator in Unity.
+<img src="https://github.com/ethroz/3D-Maze-Generator/blob/master/Images/Maze.png?raw=true" alt="Maze">
 
 Blue, Green, and Red walls are perpendicular to the Z, Y, and X axes respectively. 
 
